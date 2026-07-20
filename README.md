@@ -64,7 +64,7 @@ I'm a **strategic full stack developer** focused on designing systems that scale
   <img src="https://github-profile-trophy.vercel.app/?username=mannietech15&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
 </p>
 
-> 📌 These stats aren't static — they're regenerated live by GitHub Camo every time someone opens your profile, so your contribution count, streak, and languages always reflect the current state of your GitHub activity.
+>
 
 ---
 
