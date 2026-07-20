@@ -32,6 +32,27 @@ I'm a **strategic full stack developer** focused on designing systems that scale
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,css,nodejs,express,nestjs,fastapi,ts,py,graphql,postgres,mysql,mongodb,docker,kubernetes,aws,vercel,git,github,linux" />
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/System_Design-1F2937?style=flat-square&color=1F2937&labelColor=1F2937" />
+  <img src="https://img.shields.io/badge/Full--Stack_Architecture-1F2937?style=flat-square&color=1F2937&labelColor=1F2937" />
+  <img src="https://img.shields.io/badge/JWT_Auth-1F2937?style=flat-square&color=1F2937&labelColor=1F2937" />
+  <img src="https://img.shields.io/badge/OAuth_2.0-1F2937?style=flat-square&color=1F2937&labelColor=1F2937" />
+  <img src="https://img.shields.io/badge/WebSockets-1F2937?style=flat-square&color=1F2937&labelColor=1F2937" />
+  <img src="https://img.shields.io/badge/Serverless-1F2937?style=flat-square&color=1F2937&labelColor=1F2937" />
+  <br/>
+  <img src="https://img.shields.io/badge/Accessibility_(WCAG)-1F2937?style=flat-square&color=1F2937&labelColor=1F2937" />
+  <img src="https://img.shields.io/badge/SEO-1F2937?style=flat-square&color=1F2937&labelColor=1F2937" />
+  <img src="https://img.shields.io/badge/Framer_Motion-1F2937?style=flat-square&color=1F2937&labelColor=1F2937" />
+  <img src="https://img.shields.io/badge/GSAP-1F2937?style=flat-square&color=1F2937&labelColor=1F2937" />
+  <img src="https://img.shields.io/badge/Postman-1F2937?style=flat-square&color=1F2937&labelColor=1F2937" />
+  <img src="https://img.shields.io/badge/Swagger%2FOpenAPI-1F2937?style=flat-square&color=1F2937&labelColor=1F2937" />
+  <br/>
+  <img src="https://img.shields.io/badge/Code_Reviews-1F2937?style=flat-square&color=1F2937&labelColor=1F2937" />
+  <img src="https://img.shields.io/badge/Cross--Functional_Collaboration-1F2937?style=flat-square&color=1F2937&labelColor=1F2937" />
+  <img src="https://img.shields.io/badge/Problem_Solving-1F2937?style=flat-square&color=1F2937&labelColor=1F2937" />
+  <img src="https://img.shields.io/badge/Agile_Development-1F2937?style=flat-square&color=1F2937&labelColor=1F2937" />
+</p>
+
 | Category | Stack |
 |---|---|
 | **Frontend** | Next.js, React, React Native, Tailwind CSS, CSS3, Responsive Design, Accessibility (ARIA, WCAG), Framer Motion, GSAP, SEO, Frontend Performance Optimization |
@@ -64,7 +85,7 @@ I'm a **strategic full stack developer** focused on designing systems that scale
   <img src="https://github-profile-trophy.vercel.app/?username=mannietech15&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
 </p>
 
-
+> 📌 These stats aren't static — they're regenerated live by GitHub Camo every time someone opens your profile, so your contribution count, streak, and languages always reflect the current state of your GitHub activity.
 
 ---
 
