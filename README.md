@@ -69,17 +69,18 @@ I'm a **strategic full stack developer** focused on designing systems that scale
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mannietech15&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=C9D1D9&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannietech15&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=mannietech15&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mannietech15&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mannietech15&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=38BDF8&point=C9D1D9" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mannietech15&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=38BDF8&point=C9D1D9&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mannietech15&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mannietech15&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
 </p>
+
 
 
 ---
