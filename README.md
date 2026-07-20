@@ -64,7 +64,7 @@ I'm a **strategic full stack developer** focused on designing systems that scale
   <img src="https://github-profile-trophy.vercel.app/?username=mannietech15&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
 </p>
 
->
+
 
 ---
 
