@@ -1,76 +1,124 @@
-<h1 align="center">
-  Adekola Manasseh
-</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Building software that scales.</strong>
-</p>
+# Adekola Manasseh
 
-<p align="center">
-  Full Stack Engineer focused on scalable systems, developer tools,
-  AI applications, and exceptional digital experiences.
-</p>
+### Full Stack Developer — Web · Mobile · Desktop
 
-<p align="center">
-  <a href="https://adekolamanasseh-tech.vercel.app">Portfolio</a>
-  •
-  <a href="https://linkedin.com/in/adekola-manasseh-2350293ab">LinkedIn</a>
-  •
-  <a href="https://x.com/MannieTech01">X</a>
-  •
-  <a href="mailto:mannietech817@gmail.com">Email</a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=Designing+systems+that+scale;JavaScript+%7C+TypeScript+%7C+React+%7C+Node.js;Turning+ideas+into+production-ready+products" alt="Typing SVG" />
 
----
+<br/>
 
-## Engineering
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=38BDF8)](https://adekolamanasseh-tech.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/adekola-manasseh-2350293ab)
+[![X](https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MannieTech01)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:mannietech817@gmail.com)
 
-I build software with a focus on reliability, scalability, and thoughtful design.
+</div>
 
-My interests span the entire stack — from crafting intuitive interfaces to designing backend systems, APIs, and cloud infrastructure.
+<br/>
 
-I believe great software is not defined by complexity, but by how well it solves problems, adapts to change, and remains maintainable over time.
+## 🧭 About
 
----
+I design and build full-stack systems end to end — from database schema to deployed infrastructure — with an emphasis on **architecture that scales** and **code that survives contact with production**.
 
-## Selected Work
+```txt
+const focus = {
+  building:  "full-stack applications with a system-design-first mindset",
+  learning:  ["GraphQL at scale", "cloud infrastructure", "modern backend patterns"],
+  optimizing: "performance and deployment pipelines",
+  open_to:   ["collaboration", "open-source contributions", "junior/intern roles"],
+};
+```
 
-### 🚀 Titan
-**AI-native developer platform**
+<br/>
 
-A platform focused on improving developer workflows through intelligent tooling, automation, and scalable architecture.
+## 🚀 Featured Projects
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 📚 LibriX
-**Modern digital library ecosystem**
+### 🤖 [Agenta-AI](https://github.com/Agenta-AI/agenta)
+Open-source workspace for building and running AI agents — create agents through chat, share them with a team, and run background agents on schedules or app events.
 
-A platform designed to make discovering, managing, and interacting with digital resources simple and efficient.
+`TypeScript` `AI Agents` `Open Source`
 
----
+</td>
+<td width="50%" valign="top">
 
-### ⛪ DLBC App
-**Community communication platform**
+### ⚙️ [Oryn](https://github.com/mannietech15/Oryn)
+TypeScript project actively in development — recently updated, early-stage and evolving.
 
-A digital experience built to improve communication, engagement, and access to community resources.
+`TypeScript`
+[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/mannietech15/Oryn)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## Current Focus
+### ⛪ [DLBC App](https://github.com/mannietech15/dlbc-app-v1-2025)
+Church companion app for Deeper Life — combines a hymn book, sermon library, and Bible reader into a single mobile experience.
 
-- Designing scalable backend architectures
-- Exploring distributed systems and cloud infrastructure
-- Building AI-powered applications
-- Improving developer experience through better tools
+`Mobile` `App`
+[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/mannietech15/dlbc-app-v1-2025)
 
----
+</td>
+<td width="50%" valign="top">
 
-## Technology
+### 🖼️ [VingnetteLab](https://github.com/mannietech15/VingnetteLab)
+Full-stack web app with a Next.js frontend and a dedicated backend service, containerized with Docker and deployed on Render.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,tailwind,nodejs,express,nestjs,graphql,postgres,mysql,mongodb,docker,aws,vercel,git,github,linux" />
-</p>
+`Next.js` `Docker` `Full-Stack`
+[![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/mannietech15/VingnetteLab)
 
----
+</td>
+</tr>
+</table>
 
-## Engineering Principles
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,nestjs,fastapi,ts,py,graphql,postgres,mongodb,docker,kubernetes,aws,vercel,git,github,linux&theme=dark" />
+</div>
+
+<br/>
+
+| | |
+|---|---|
+| **Frontend** | Next.js · React · React Native · Tailwind CSS · Framer Motion · GSAP · Accessibility (WCAG) |
+| **Backend** | Node.js · Express · NestJS · FastAPI · TypeScript · Python · REST · GraphQL |
+| **Data** | PostgreSQL · MySQL · MongoDB · Supabase |
+| **Cloud & DevOps** | Docker · Kubernetes · AWS (EC2/ECS/RDS/S3) · GitHub Actions · Vercel · Render |
+| **Architecture** | System Design · JWT · OAuth 2.0 · WebSockets · Serverless |
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mannietech15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannietech15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mannietech15&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=38BDF8&currStreakLabel=A78BFA" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mannietech15&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=38BDF8&point=C9D1D9" />
+</div>
+
+<br/>
+
+<div align="center">
+
+### Let's build something worth shipping.
+
+📫 [mannietech817@gmail.com](mailto:mannietech817@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/adekola-manasseh-2350293ab) &nbsp;·&nbsp; 🌐 [Portfolio](https://adekolamanasseh-tech.vercel.app)
+
+<i>Building today what people will rely on tomorrow.</i>
+
+</div>
