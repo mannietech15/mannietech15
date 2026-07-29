@@ -27,7 +27,7 @@
 
 <br/>
 
-## 🧭 About
+## 🧭 About Me
 
 I design and build full-stack systems end to end — from database schema to deployed infrastructure — with an emphasis on **architecture that scales** and **code that survives contact with production**.
 
