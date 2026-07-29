@@ -1,6 +1,6 @@
 <div align="center">
 
-# Adekola Manasseh
+# 👋 Hi there, I'mAdekola Manasseh
 
 ### Full Stack Developer — Web · Mobile · Desktop
 
