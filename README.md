@@ -4,14 +4,17 @@
 
 ### Full Stack Developer — Web · Mobile · Desktop
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=Designing+systems+that+scale;JavaScript+%7C+TypeScript+%7C+React+%7C+Node.js;Turning+ideas+into+production-ready+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=Designing+systems+that+scale;JavaScript+%7C+TypeScript+%7C+React+%7C+Node.js;Turning+ideas+into+production-ready+products" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=38BDF8)](https://adekolamanasseh-tech.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/adekola-manasseh-2350293ab)
-[![X](https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MannieTech01)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:mannietech817@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181B24?style=for-the-badge&logo=vercel&logoColor=38BDF8&labelColor=181B24)](https://adekolamanasseh-tech.vercel.app)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-181B24?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=181B24)](https://linkedin.com/in/adekola-manasseh-2350293ab)
+&nbsp;
+[![X](https://img.shields.io/badge/X-181B24?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=181B24)](https://x.com/MannieTech01)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-181B24?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=181B24)](mailto:mannietech817@gmail.com)
 
 </div>
 
@@ -99,16 +102,18 @@ Full-stack web app with a Next.js frontend and a dedicated backend service, cont
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mannietech15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mannietech15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=C9D1D9&include_all_commits=true" />
+<img height="165" src="https://streak-stats.demolab.com/?user=mannietech15&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=38BDF8&currStreakLabel=A78BFA" />
+
+<br/>
+
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannietech15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" />
-</div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mannietech15&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=38BDF8&currStreakLabel=A78BFA" />
-</div>
+<br/><br/>
 
-<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mannietech15&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=38BDF8&point=C9D1D9" />
+
 </div>
 
 <br/>
