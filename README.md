@@ -1,5 +1,9 @@
+
 <h1 align="center">Adekola Manasseh</h1>
-<h3 align="center">Full Stack Developer specializing in scalable web, mobile, and desktop applications</h3>
+
+<h3 align="center">
+Building scalable software with JavaScript, TypeScript, and modern cloud technologies.
+</h3>
 
 <p align="center">
   <a href="https://adekolamanasseh-tech.vercel.app">
@@ -20,53 +24,73 @@
 
 ## About
 
-I'm a full stack developer focused on building systems that scale, not just code that runs. My work centers on clean architecture, deliberate technical decisions, and shipping products that hold up in production.
+I'm a full stack developer focused on building software that is reliable, scalable, and easy to maintain.
 
-- Currently building full stack applications with an emphasis on system design and scalability
-- Deepening my knowledge of GraphQL, cloud infrastructure, and modern backend patterns
-- Focused on performance optimization and deployment best practices
-- Open to collaboration, open-source contributions, and internship or junior developer opportunities
+I enjoy solving engineering problems across the stack—from crafting intuitive user interfaces to designing backend systems and APIs. My focus is on writing clean code, making thoughtful architectural decisions, and building products that remain dependable as they grow.
+
+---
+
+## Currently Building
+
+- 🚀 **Titan** — AI-native developer platform
+- 📚 **LibriX** — Modern digital library ecosystem
+- ⛪ **DLBC App** — Church management platform for communication and community engagement
 
 ---
 
 ## Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,css,nodejs,express,nestjs,fastapi,ts,py,graphql,postgres,mysql,mongodb,docker,kubernetes,aws,vercel,git,github,linux" />
+<p>
+<img src="https://skillicons.dev/icons?i=typescript,javascript,nextjs,react,nodejs,nestjs,graphql,postgres,mysql,mongodb,docker,aws,git,github,linux,tailwind,vercel" />
 </p>
 
-| Category | Stack |
-|---|---|
-| **Frontend** | Next.js, React, React Native, Tailwind CSS, CSS3, Responsive Design, Accessibility (ARIA, WCAG), Framer Motion, GSAP, SEO, Performance Optimization |
-| **Backend** | Node.js, Express.js, NestJS, FastAPI, TypeScript, Python, REST APIs, GraphQL, Serverless Functions (AWS Lambda, Vercel Edge) |
-| **Databases** | PostgreSQL, MySQL, MongoDB, Supabase, Database Design & Optimization |
-| **Cloud & DevOps** | Docker, Kubernetes, AWS (EC2, ECS, RDS, S3), GitHub Actions, Vercel, Render, Netlify |
-| **Architecture & Security** | System Design, Full-Stack Architecture, JWT Authentication, OAuth 2.0, WebSockets (Real-Time Systems) |
-| **API & Testing** | REST APIs, GraphQL, Postman, Swagger/OpenAPI |
-| **Dev Tools** | Git, GitHub, Linux, NPM, Cursor, Claude Code |
-| **Practices** | Code Reviews, Cross-Functional Collaboration, Agile Development, Problem Solving |
+| Area | Technologies |
+|------|--------------|
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
+| **Backend** | Node.js, Express.js, NestJS, GraphQL |
+| **Database** | PostgreSQL, MySQL, MongoDB |
+| **Cloud & DevOps** | Docker, AWS, Vercel, GitHub Actions |
+| **Tools** | Git, Linux, Postman |
 
 ---
 
-## GitHub Stats
+## Engineering Principles
+
+- Build for maintainability before complexity.
+- Optimize after measuring.
+- Prefer simplicity over cleverness.
+- Write code that others enjoy reading.
+- Keep learning. Keep shipping.
+
+---
+
+## GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-stats-extended.vercel.app/api?username=mannietech15&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+
   <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mannietech15&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mannietech15&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=38BDF8&point=C9D1D9&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mannietech15&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mannietech15&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=38BDF8&point=C9D1D9" />
 </p>
 
 ---
 
-## Get in Touch
+## Connect
 
-Feel free to reach out via [email](mailto:mannietech817@gmail.com) or [LinkedIn](https://linkedin.com/in/adekola-manasseh-2350293ab) — I'm always open to discussing new projects, ideas, or opportunities to collaborate.
+I'm always interested in discussing software engineering, open source, and building meaningful products.
 
-<p align="center"><i>Building today what people will rely on tomorrow.</i></p>
+📫 **Email:** mannietech817@gmail.com
+
+🌐 **Portfolio:** https://adekolamanasseh-tech.vercel.app
+
+💼 **LinkedIn:** https://linkedin.com/in/adekola-manasseh-2350293ab
+
+---
+
+<p align="center">
+<i>Building software that lasts.</i>
+</p>
+```
