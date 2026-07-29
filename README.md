@@ -110,12 +110,7 @@ Full-stack web app with a Next.js frontend and a dedicated backend service, cont
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=mannietech15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD60A&icon_color=38BDF8&text_color=C9D1D9&include_all_commits=true" />
-<img height="165" src="https://streak-stats.demolab.com/?user=mannietech15&theme=tokyonight&hide_border=true&background=0D1117&ring=FFD60A&fire=38BDF8&currStreakLabel=FFD60A" />
-
-<br/>
-
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mannietech15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD60A&text_color=C9D1D9&langs_count=8" />
+<img height="165" src="https://streak-stats.demolab.com/?user=mannietech15&theme=tokyonight&hide_border=true&background=0D1117&ring=FFD60A&fire=38BDF8&currStreakLabel=FFD60A&currStreakNum=FFD60A" />
 
 </div>
 
