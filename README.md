@@ -8,19 +8,20 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-181B24?style=for-the-badge&logo=vercel&logoColor=38BDF8&labelColor=181B24)](https://adekolamanasseh-tech.vercel.app)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-181B24?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=181B24)](https://linkedin.com/in/adekola-manasseh-2350293ab)
-&nbsp;
-[![X](https://img.shields.io/badge/X-181B24?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=181B24)](https://x.com/MannieTech01)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-181B24?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=181B24)](mailto:mannietech817@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-adekolamanasseh--tech.vercel.app-FFD60A?style=for-the-badge&logo=vercel&logoColor=black&labelColor=181B24)](https://adekolamanasseh-tech.vercel.app)
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Adekola_Manasseh-FFD60A?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=181B24)](https://linkedin.com/in/adekola-manasseh-2350293ab)
+
+[![X](https://img.shields.io/badge/X-%40MannieTech01-FFD60A?style=for-the-badge&logo=x&logoColor=black&labelColor=181B24)](https://x.com/MannieTech01)
+
+[![Email](https://img.shields.io/badge/EMAIL-mannietech817%40gmail.com-FFD60A?style=for-the-badge&logo=gmail&logoColor=black&labelColor=181B24)](mailto:mannietech817@gmail.com)
 
 <br/><br/>
 
 ![Location](https://img.shields.io/badge/📍_Location-Nigeria-2C3440?style=flat-square&labelColor=181B24)
 ![Background](https://img.shields.io/badge/Background-Physics-38BDF8?style=flat-square&labelColor=181B24)
 ![Experience](https://img.shields.io/badge/Experience-1+_Year-FF8C42?style=flat-square&labelColor=181B24)
+![Role](https://img.shields.io/badge/Role-Intern_@_Techbox-2ECC71?style=flat-square&labelColor=181B24)
 
 </div>
 
