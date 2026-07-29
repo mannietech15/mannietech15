@@ -16,6 +16,12 @@
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-181B24?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=181B24)](mailto:mannietech817@gmail.com)
 
+<br/><br/>
+
+![Location](https://img.shields.io/badge/📍_Location-Nigeria-2C3440?style=flat-square&labelColor=181B24)
+![Background](https://img.shields.io/badge/Background-Physics-38BDF8?style=flat-square&labelColor=181B24)
+![Experience](https://img.shields.io/badge/Experience-1+_Year-A78BFA?style=flat-square&labelColor=181B24)
+
 </div>
 
 <br/>
@@ -109,10 +115,6 @@ Full-stack web app with a Next.js frontend and a dedicated backend service, cont
 <br/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannietech15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mannietech15&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=38BDF8&point=C9D1D9" />
 
 </div>
 
