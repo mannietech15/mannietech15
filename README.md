@@ -4,7 +4,7 @@
 
 ### Full Stack Developer — Web · Mobile · Desktop
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=Designing+systems+that+scale;JavaScript+%7C+TypeScript+%7C+React+%7C+Node.js;Turning+ideas+into+production-ready+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FFD60A&center=true&vCenter=true&width=680&lines=Designing+systems+that+scale;JavaScript+%7C+TypeScript+%7C+React+%7C+Node.js;Turning+ideas+into+production-ready+products" alt="Typing SVG" />
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 ![Location](https://img.shields.io/badge/📍_Location-Nigeria-2C3440?style=flat-square&labelColor=181B24)
 ![Background](https://img.shields.io/badge/Background-Physics-38BDF8?style=flat-square&labelColor=181B24)
-![Experience](https://img.shields.io/badge/Experience-1+_Year-A78BFA?style=flat-square&labelColor=181B24)
+![Experience](https://img.shields.io/badge/Experience-1+_Year-FF8C42?style=flat-square&labelColor=181B24)
 
 </div>
 
@@ -109,12 +109,12 @@ Full-stack web app with a Next.js frontend and a dedicated backend service, cont
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mannietech15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=C9D1D9&include_all_commits=true" />
-<img height="165" src="https://streak-stats.demolab.com/?user=mannietech15&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=38BDF8&currStreakLabel=A78BFA" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mannietech15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF8C42&icon_color=38BDF8&text_color=C9D1D9&include_all_commits=true" />
+<img height="165" src="https://streak-stats.demolab.com/?user=mannietech15&theme=tokyonight&hide_border=true&background=0D1117&ring=FF8C42&fire=38BDF8&currStreakLabel=FF8C42" />
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannietech15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannietech15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF8C42&text_color=C9D1D9&langs_count=8" />
 
 </div>
 
