@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm Adekola Manasseh
+# Adekola Manasseh
 
 ### Full Stack Developer — Web · Mobile · Desktop
 
@@ -120,7 +120,9 @@ Full-stack web app with a Next.js frontend and a dedicated backend service, cont
 
 ### Let's build something worth shipping.
 
-📫 [mannietech817@gmail.com](mailto:mannietech817@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/adekola-manasseh-2350293ab) &nbsp;·&nbsp; 🌐 [Portfolio](https://adekolamanasseh-tech.vercel.app)
+[![Email](https://img.shields.io/badge/📫_Email-mannietech817%40gmail.com-FFD60A?style=for-the-badge&labelColor=181B24)](mailto:mannietech817@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Adekola_Manasseh-FFD60A?style=for-the-badge&labelColor=181B24)](https://linkedin.com/in/adekola-manasseh-2350293ab)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-adekolamanasseh--tech.vercel.app-FFD60A?style=for-the-badge&labelColor=181B24)](https://adekolamanasseh-tech.vercel.app)
 
 <i>Building today what people will rely on tomorrow.</i>
 
