@@ -20,15 +20,26 @@ Full Stack Developer — Web · Mobile · Desktop
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-adekolamanasseh--tech.vercel.app-FFD60A?style=for-the-badge&logo=vercel&logoColor=black&labelColor=181B24)](https://adekolamanasseh-tech.vercel.app)
+<table>
+<tr>
+<td align="right"><img src="https://img.shields.io/badge/PORTFOLIO-181B24?style=for-the-badge&logo=vercel&logoColor=white" /></td>
+<td align="left"><a href="https://adekolamanasseh-tech.vercel.app"><img src="https://img.shields.io/badge/adekolamanasseh--tech.vercel.app-FFD60A?style=for-the-badge&logoColor=black" /></a></td>
+</tr>
+<tr>
+<td align="right"><img src="https://img.shields.io/badge/LINKEDIN-181B24?style=for-the-badge&logo=linkedin&logoColor=white" /></td>
+<td align="left"><a href="https://linkedin.com/in/adekola-manasseh-2350293ab"><img src="https://img.shields.io/badge/Adekola_Manasseh-FFD60A?style=for-the-badge&logoColor=black" /></a></td>
+</tr>
+<tr>
+<td align="right"><img src="https://img.shields.io/badge/X-181B24?style=for-the-badge&logo=x&logoColor=white" /></td>
+<td align="left"><a href="https://x.com/MannieTech01"><img src="https://img.shields.io/badge/%40MannieTech01-FFD60A?style=for-the-badge&logoColor=black" /></a></td>
+</tr>
+<tr>
+<td align="right"><img src="https://img.shields.io/badge/EMAIL-181B24?style=for-the-badge&logo=gmail&logoColor=white" /></td>
+<td align="left"><a href="mailto:mannietech817@gmail.com"><img src="https://img.shields.io/badge/mannietech817%40gmail.com-FFD60A?style=for-the-badge&logoColor=black" /></a></td>
+</tr>
+</table>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Adekola_Manasseh-FFD60A?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=181B24)](https://linkedin.com/in/adekola-manasseh-2350293ab)
-
-[![X](https://img.shields.io/badge/X-%40MannieTech01-FFD60A?style=for-the-badge&logo=x&logoColor=black&labelColor=181B24)](https://x.com/MannieTech01)
-
-[![Email](https://img.shields.io/badge/EMAIL-mannietech817%40gmail.com-FFD60A?style=for-the-badge&logo=gmail&logoColor=black&labelColor=181B24)](mailto:mannietech817@gmail.com)
-
-<br/><br/>
+<br/>
 
 ![Location](https://img.shields.io/badge/📍_Location-Nigeria-2C3440?style=flat-square&labelColor=181B24)
 ![Background](https://img.shields.io/badge/Background-Physics-38BDF8?style=flat-square&labelColor=181B24)
