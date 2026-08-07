@@ -20,19 +20,14 @@ Full Stack Developer — Web · Mobile · Desktop
 
 <br/>
 
-<table align="center">
-<tr><td align="left">
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-adekolamanasseh--tech.vercel.app-FFD60A?style=for-the-badge&logo=vercel&logoColor=black&labelColor=181B24)](https://adekolamanasseh-tech.vercel.app)
-<br/>
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Adekola_Manasseh-FFD60A?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=181B24)](https://linkedin.com/in/adekola-manasseh-2350293ab)
-<br/>
-[![X](https://img.shields.io/badge/X-%40MannieTech01-FFD60A?style=for-the-badge&logo=x&logoColor=black&labelColor=181B24)](https://x.com/MannieTech01)
-<br/>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-adekolamanasseh--tech.vercel.app-FFD60A?style=for-the-badge&logo=vercel&logoColor=black&labelColor=181B24)](https://adekolamanasseh-tech.vercel.app)<br/>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Adekola_Manasseh-FFD60A?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=181B24)](https://linkedin.com/in/adekola-manasseh-2350293ab)<br/>
+[![X](https://img.shields.io/badge/X-%40MannieTech01-FFD60A?style=for-the-badge&logo=x&logoColor=black&labelColor=181B24)](https://x.com/MannieTech01)<br/>
 [![Email](https://img.shields.io/badge/EMAIL-mannietech817%40gmail.com-FFD60A?style=for-the-badge&logo=gmail&logoColor=black&labelColor=181B24)](mailto:mannietech817@gmail.com)
 
-</td></tr>
-</table>
+<br/>
 
 <br/>
 
