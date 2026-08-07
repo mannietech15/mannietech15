@@ -20,6 +20,8 @@ Full Stack Developer — Web · Mobile · Desktop
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Petit+Formal+Script&weight=600&size=30&duration=3200&pause=1000&color=FFD60A&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%E2%80%94+architecting+scalable+systems;Crafting+seamless+web%2C+mobile+%26+desktop+experiences;Turning+bold+ideas+into+production-ready+products;JavaScript+%7C+TypeScript+%7C+React+%7C+Node.js" alt="Typing SVG" />
+
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-adekolamanasseh--tech.vercel.app-FFD60A?style=for-the-badge&logo=vercel&logoColor=black&labelColor=181B24)](https://adekolamanasseh-tech.vercel.app)<br/>
